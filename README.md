@@ -66,3 +66,13 @@ func(a, b, c)
              46 RETURN_VALUE```
 
 ### How to Convert Python to Bytecode
+
+- install dis
+
+`pip install dis`
+
+- How To Convert?
+
+`python3 -m dis name.py`
+
+
