@@ -109,5 +109,11 @@ print(r.status_code)
 
 End!
 
+Marshal's decoding videos: 
+
+https://t.me/MrEsfelurm/10628
+https://t.me/MrEsfelurm/10629
+https://t.me/MrEsfelurm/10631
+
 
 My channel in Telegram: @MrEsfelurm
