@@ -78,4 +78,6 @@ func(a, b, c)
 
 `python3 -m dis name.py`
 
+# Decrypt Marshal
 
+How To Decrypt? <a href="https://github.com/Mr-Spect3r/Py2Bytecode/blob/main/Decrypt.md">Clicl Me
