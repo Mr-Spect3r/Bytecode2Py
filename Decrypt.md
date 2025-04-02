@@ -60,12 +60,12 @@ with open('output.txt','w',encoding='UTF-8') as f:
 
 # Step 2
 
-<b>Run the Py2Bytecode.py file</b>
+<b>Run the Bytecode2Py.py file</b>
 
 - Run
 
 ```
-python Py2Bytecode.py
+python Bytecode2Py.py
 ```
 
 - Convert the disassembly to a pyc file
