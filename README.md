@@ -63,7 +63,6 @@ func(a, b, c)
              40 CALL_FUNCTION            3
              42 POP_TOP
              44 LOAD_CONST               4 (None)
-             46 RETURN_VALUE
-```
+             46 RETURN_VALUE```
 
 ### How to Convert Python to Bytecode
