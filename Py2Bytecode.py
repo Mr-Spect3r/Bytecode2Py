@@ -7,7 +7,6 @@ from marshal import dumps
 import sys
 
 Runer("cls || clear")
-
 rd, gn, lgn, yw, lrd, be, pe = '\033[00;31m', '\033[00;32m', '\033[01;32m', '\033[01;33m', '\033[01;31m', '\033[94m', '\033[01;35m'
 cn, k,g,b = '\033[00;36m', '\033[90m','\033[38;5;130m','[2;36m'
 tr = f'{rd}[{gn}+{rd}]{gn} '
