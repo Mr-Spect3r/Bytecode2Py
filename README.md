@@ -65,3 +65,5 @@ func(a, b, c)
              44 LOAD_CONST               4 (None)
              46 RETURN_VALUE
 ```
+
+### How to Convert Python to Bytecode
