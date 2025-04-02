@@ -71,7 +71,19 @@ Codes were converted into ByteCode/ObjectCode!
 [+] Do you have pycdc? [yes/no]: yes
 [+] The code is successfully returned to the initial state! Decrypted.py
 ```
+# End
+
+<b>Now it's time to convert pyc to py. For this, you can use pycdc, uncompyle6 and https://pylingual.io</b>
+
+## Pycdc
+
+- how to convert pyc to py with pycdc
+
+```
+pycdc out.pyc
+```
+
+End!
 
 
-
-
+My channel in Telegram: @MrEsfelurm
