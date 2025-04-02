@@ -94,6 +94,19 @@ Codes were converted into ByteCode/ObjectCode!
 pycdc out.pyc
 ```
 
+- Result
+
+```
+#Telegram: @MrEsfelurm
+
+# Source Generated with Decompyle++
+# File: out.pyc (Python 3.10)
+
+import requests
+r = requests.post('https://google.com')
+print(r.status_code)
+```
+
 End!
 
 
