@@ -81,3 +81,8 @@ func(a, b, c)
 # Decrypt Marshal
 
 How To Decrypt? <a href="https://github.com/Mr-Spect3r/Py2Bytecode/blob/main/Decrypt.md">Click Me
+
+<a href="https://github.com/Mr-Spect3r/Py2Bytecode/tree/main/pycdc%20Android"> Pycdc For Android
+
+<a href="https://github.com/Mr-Spect3r/Py2Bytecode/tree/main/pycdc%20Windows"> Pycdc For Windows
+
