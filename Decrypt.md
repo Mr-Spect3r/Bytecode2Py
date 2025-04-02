@@ -49,3 +49,29 @@ with open('output.txt','w',encoding='UTF-8') as f:
 
 # Step 2
 
+<b>Run the Py2Bytecode.py file</b>
+
+- Run
+
+```
+python Py2Bytecode.py
+```
+
+- Convert the disassembly to a pyc file
+
+- Result
+
+```
+[+] Enter input file name: output.txt
+[+] Enter output file name (default: output.pyc): out.pyc
+[+] Code object written to 'out.pyc'
+
+
+Codes were converted into ByteCode/ObjectCode!
+[+] Do you have pycdc? [yes/no]: yes
+[+] The code is successfully returned to the initial state! Decrypted.py
+```
+
+
+
+
