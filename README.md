@@ -1,6 +1,6 @@
-# Py2Bytecode
+# Bytecode2Py
 
-<b>Conver python to Byteccode and ByteCode to python</b>
+<b>Conver Byteccode to python and ByteCode to python</b>
 
 
 <img src="https://github.com/user-attachments/assets/f78dc3aa-db70-4dc6-a337-06cfb0bec7ab">
